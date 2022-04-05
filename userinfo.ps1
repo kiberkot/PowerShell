@@ -1,6 +1,6 @@
 <# 
 .NAME
-    Получение информации о пользователе
+    Получение информации о пользователе из Active Directory по почтовому адресу
 #>
 
 Add-Type -AssemblyName System.Windows.Forms
